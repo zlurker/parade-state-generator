@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="statustext" type="id"></item>
+    <item name="presentstatus" type="id"></item>
+    <item name="delButton" type="id"></item>
+    <item name="listnames" type="id"></item>
+</resources>
